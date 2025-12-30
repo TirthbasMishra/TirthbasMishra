@@ -1,8 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hello+There!+👋;This+is+Tirthbas+Mishra;Software+Engineer+%7C+Builder+%7C+Learner;Java+%7C+Spring+Boot+%7C+React+%7C+AI" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Tirthbas+..." alt="Typing SVG" /></a>
 
 ---
 
@@ -50,7 +48,7 @@
 
 ## 🔥 Contribution Activity
 
-[![Tirthbas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TirthbasMishra&bg_color=202124&color=fcfcfa&line=c4e3ff&point=ff8070&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TirthbasMishra&bg_color=202124&color=fcfcfa&line=c4e3ff&point=ff8070&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
