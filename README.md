@@ -73,7 +73,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/tirthbas-mishra-b000b9231/)" target="_blank">
+  <a href="https://www.linkedin.com/in/tirthbas-mishra-b000b9231/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:mishratirthabas17@gmail.com">
